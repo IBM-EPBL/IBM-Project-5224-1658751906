@@ -11,10 +11,10 @@ There are a number of users who purchase products online and make payments throu
 In order to detect and predict e-banking phishing websites, we proposed an intelligent, flexible and effective system that is based on using classification algorithms.  We implemented classification algorithms and techniques to extract the phishing datasets criteria to classify their legitimacy. The e-banking phishing website can be detected based on some important characteristics like URL and domain identity, and security and encryption criteria in the final phishing detection rate. Once a user makes a transaction online when he makes payment through an e-banking website our system will use a data mining algorithm to detect whether the e-banking website is a phishing website or not.
 
 ## Team Members:
-- <a href="https://github.com/AVBalajee">Sathish S</a>
-- <a href="https://github.com/aswinthumati">Ramana R </a>
-- <a href="https://github.com/sbalaji02">Balu R </a>
-- <a href="https://github.com/rabisheik">Narmadha D </a>
+- <a href="#">Sathish S</a>
+- <a href="#">Ramana R </a>
+- <a href="#">Balu R </a>
+- <a href="#">Narmadha D </a>
 
 ## Languages Used:
 [![My Skills](https://skillicons.dev/icons?i=angular,react,html,css,django,nodejs,python,mongodb&perline=10)](https://skillicons.dev)
